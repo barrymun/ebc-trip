@@ -1,0 +1,18 @@
+{
+  "[json]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false
+  },
+  "[js]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false
+  },
+  "[ts]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false
+  },
+  "[svelte]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false
+  },
+}
