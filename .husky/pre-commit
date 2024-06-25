@@ -1,1 +1,4 @@
-yarn test
+yarn run test
+yarn run cspell
+yarn run format
+yarn run lint
